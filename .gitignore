@@ -1,0 +1,8 @@
+# Large teacher-provided binary assets; retrieve from the course attachment.
+/weights/image_encoder.npz
+/assets/reference_outputs.npz
+/.github-checkout/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
